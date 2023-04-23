@@ -3,7 +3,7 @@ const { SlashCommandBuilder } = require('discord.js');
 module.exports = {
 	data: new SlashCommandBuilder()
 	//SETTING BOT PROPERTIES ETC
-		.setName('help')
+		.setName('demo')
 		.setDescription('An introduction to the bot, and instructions to get you going'),
 	async execute(interaction) {
 		//WHAT TO DO WHEN THE COMMAND IS ACTIVATED, CAN BE LEFT BLANK
