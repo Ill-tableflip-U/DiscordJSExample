@@ -10,5 +10,4 @@ Setup:
 
 
 
-if you need help, message: I will get tableflipped #0421 on discord
-IMPORTANT: you can duplicate the command template file inside the folder for more commands, just run deploy-commands.js after to update the bot commands on discord
+Commands can be duplicated in the folder, just run deploy-commands.js afterwards
